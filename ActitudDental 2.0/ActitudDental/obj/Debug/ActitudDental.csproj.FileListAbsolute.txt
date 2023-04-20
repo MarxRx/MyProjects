@@ -1,0 +1,27 @@
+D:\ProyectosVS\ActitudDental\ActitudDental\bin\Debug\ActitudDentalLocalDB.mdf
+D:\ProyectosVS\ActitudDental\ActitudDental\bin\Debug\ActitudDentalLocalDB_log.ldf
+D:\ProyectosVS\ActitudDental\ActitudDental\bin\Debug\ActitudDental.exe.config
+D:\ProyectosVS\ActitudDental\ActitudDental\bin\Debug\ActitudDental.exe
+D:\ProyectosVS\ActitudDental\ActitudDental\bin\Debug\ActitudDental.pdb
+D:\ProyectosVS\ActitudDental\ActitudDental\obj\Debug\ActitudDental.FrmDental.resources
+D:\ProyectosVS\ActitudDental\ActitudDental\obj\Debug\ActitudDental.FrmLogin.resources
+D:\ProyectosVS\ActitudDental\ActitudDental\obj\Debug\ActitudDental.Properties.Resources.resources
+D:\ProyectosVS\ActitudDental\ActitudDental\obj\Debug\ActitudDental.csproj.GenerateResource.cache
+D:\ProyectosVS\ActitudDental\ActitudDental\obj\Debug\ActitudDental.csproj.CoreCompileInputs.cache
+D:\ProyectosVS\ActitudDental\ActitudDental\obj\Debug\ActitudDental.exe
+D:\ProyectosVS\ActitudDental\ActitudDental\obj\Debug\ActitudDental.pdb
+D:\ProyectosVS\ActitudDental\ActitudDental\obj\Debug\ActitudDental.csprojAssemblyReference.cache
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\bin\Debug\ActitudDentalLocalDB.mdf
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\bin\Debug\ActitudDentalLocalDB_log.ldf
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\bin\Debug\ActitudDental.exe.config
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\bin\Debug\ActitudDental.exe
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\bin\Debug\ActitudDental.pdb
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\obj\Debug\ActitudDental.FrmDental.resources
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\obj\Debug\ActitudDental.FrmLogin.resources
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\obj\Debug\ActitudDental.Properties.Resources.resources
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\obj\Debug\ActitudDental.csproj.GenerateResource.cache
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\obj\Debug\ActitudDental.csproj.CoreCompileInputs.cache
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\obj\Debug\ActitudDental.exe
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\obj\Debug\ActitudDental.pdb
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\obj\Debug\ActitudDental.csproj.AssemblyReference.cache
+D:\ProyectosVS\ActitudDental 2.0\ActitudDental\obj\Debug\ActitudDental.csproj.SuggestedBindingRedirects.cache
